@@ -132,4 +132,4 @@ zip_value = int(zipcode)
 print(type(zip_value))
 
 # Error if you attempt to cast incorrect data
-# zip_value = int("New York")
+zip_value = int("New York")
